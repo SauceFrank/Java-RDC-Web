@@ -1,6 +1,6 @@
 # Java-RDC-Web
 
-10 Concurrent Sessions
+20 Concurrent Sessions
 
 Random Real Device Tests 
 
