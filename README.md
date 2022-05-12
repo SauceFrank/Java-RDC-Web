@@ -10,6 +10,3 @@ mvn test-compile
 
 Run this command at the command line or terminal in the IDE to run all the tests   
 mvn test
-
-# Java-RDC-Web
-# Java-VDC-Web
